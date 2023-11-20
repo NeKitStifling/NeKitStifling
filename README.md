@@ -23,7 +23,7 @@ Also about me:
   
 ✅ I'm always ready to chat.  
 🔗 My contacts:  
-🌐 Telegram - t.me/nekitstifling  
+🌐 Telegram - https://t.me/nekitstifling  
 📧 EMail - happynik2001@gmail.com  
 💼 Youtube channel - https://www.youtube.com/@nekit-dev  
 <!---
