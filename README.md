@@ -9,7 +9,7 @@ What I've worked with:
 🌐 Java Script, Flask, Django, Drupal, PHP, HTML, CSS;  
 🗃 Postgre SQL, MySQL, Airtable, Ubuntu;  
 
-Also about me:
+Also about me:  
 📚 Have both technical and humanitarian educations.  
 📜 Got my diploma of "Software Engineer - Bachelor" with my concept on an ARPG UE5 videogame.  
 🔍 Always seek for new experience.  
