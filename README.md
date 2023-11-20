@@ -8,7 +8,7 @@ What I've worked with:
 📦 Git, GitHub, GitLab;  
 🌐 Java Script, Flask, Django, Drupal, PHP, HTML, CSS;  
 🗃 Postgre SQL, MySQL, Airtable, Ubuntu;  
-
+  
 📚 Have both technical and humanitarian educations.  
 📜 Got my diploma of "Software Engineer - Bachelor" with my concept on an ARPG UE5 videogame.  
 🔍 Always seek for new experience.  
@@ -19,7 +19,7 @@ What I've worked with:
 🖼 Believe I have a sense of taste.  
 ♨️ Friends call me Stifling.  
 🆒 Have a sympathy for people who understand what they are actually doing.  
-
+  
 ✅ I'm always ready to chat.  
 🔗 My contacts:  
 🌐 Telegram - t.me/nekitstifling  
