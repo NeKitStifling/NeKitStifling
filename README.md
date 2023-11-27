@@ -3,11 +3,11 @@
 ℹ️ Here's some info about me:
 
 What I've worked with:  
-🖼 Unreal Engine 5, Blender, 3DS Max, Photoshop, VRoid Studio.  
 🛠 C++, Python;  
 📦 Git, GitHub, GitLab;  
 🌐 Java Script, Flask, Django, Drupal, PHP, HTML, CSS;  
 🗃 Postgre SQL, MySQL, Airtable, Ubuntu;  
+🖼 Unreal Engine 5, Blender, 3DS Max, Photoshop, VRoid Studio.  
 
 Also about me:  
 📚 Have both technical and humanitarian educations.  
